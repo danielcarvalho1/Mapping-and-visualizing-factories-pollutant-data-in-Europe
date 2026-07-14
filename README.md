@@ -15,8 +15,6 @@ This project is part of a wider one made along with Gabriel Meirinho, Luís Reis
 - [Libraries Used](#libraries-used)
 - [Outputs Generated](#outputs-generated)
 - [Notes](#notes)
-- [License](#license)
-
 ---
 
 ## Overview
